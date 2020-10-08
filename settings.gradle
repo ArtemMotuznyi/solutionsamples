@@ -1,0 +1,3 @@
+include ':experiment_viewbindings'
+include ':app'
+rootProject.name = "MySamplesLab"
